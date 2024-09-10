@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17eef1e7-d6ff-4fa4-873f-52c1c94d83cd" name="Changes" comment="Creando la rama calculadora">
-      <change afterPath="$PROJECT_DIR$/Calcular.py" afterDir="false" />
-    </list>
+    <list default="true" id="17eef1e7-d6ff-4fa4-873f-52c1c94d83cd" name="Changes" comment="Creando la rama calcular" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Calculadora.executor": "Run",
+    "Python.Calcular.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Calculadora"
@@ -108,12 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726003706485</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creando la rama calcular">
+      <option name="closed" value="true" />
+      <created>1726004083938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726004083938</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vinculando al github" />
     <MESSAGE value="Creando la rama calculadora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando la rama calculadora" />
+    <MESSAGE value="Creando la rama calcular" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando la rama calcular" />
   </component>
 </project>
