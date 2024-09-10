@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17eef1e7-d6ff-4fa4-873f-52c1c94d83cd" name="Changes" comment="Vinculando al github">
-      <change afterPath="$PROJECT_DIR$/Calculadora.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="17eef1e7-d6ff-4fa4-873f-52c1c94d83cd" name="Changes" comment="Creando la rama calculadora">
+      <change afterPath="$PROJECT_DIR$/Calcular.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="clase_calculadora" />
+        <entry key="$PROJECT_DIR$" value="Calculadora" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +41,7 @@
     "Python.Calculadora.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "clase__calculadora"
+    "git-widget-placeholder": "Calculadora"
   }
 }]]></component>
   <component name="RunManager">
@@ -93,11 +92,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726002245747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creando la rama calculadora">
+      <option name="closed" value="true" />
+      <created>1726003522965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726003522965</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creando la rama calculadora">
+      <option name="closed" value="true" />
+      <created>1726003706485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726003706485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vinculando al github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vinculando al github" />
+    <MESSAGE value="Creando la rama calculadora" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando la rama calculadora" />
   </component>
 </project>
